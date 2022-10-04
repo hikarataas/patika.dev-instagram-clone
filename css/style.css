@@ -1,9 +1,11 @@
-::placeholder{
+::placeholder {
     text-align: center;
     font-size: 14px;
     color: gray;
     background-position: 40%;
     background-size: 6%;
+    background-image: url(/img/insta-clone.svg);
+    background-repeat: no-repeat;
   }
   
   input.empty {
